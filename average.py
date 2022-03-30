@@ -4,7 +4,7 @@ from tokenize import Double
 
 def average():
     """
-    Calculate and print two float values from user input 
+    Calculate and print the average of two float values from user input 
     """
 
     try:
