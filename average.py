@@ -12,7 +12,7 @@ def average():
         y = float(input("Enter y: "))
         print((x+y)/2)
     except ValueError:
-        print("That's not an int!")
+        print("That's not a float!")
         average()
 
 
